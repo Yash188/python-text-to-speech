@@ -1,0 +1,8 @@
+
+
+Hello! Welcome to Lucid Programmer Instagram handle,
+Hope you'll are healthy and good,
+This is a working code of text to speech recognition using python.
+
+Check out full source code on my Github page.
+Wish you happy coding!
